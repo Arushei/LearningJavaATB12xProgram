@@ -1,4 +1,4 @@
-package wx_02_Java_basics;
+package ex_02_Java_basics;
 
 public class Java_Basics_printf {
     public static void main(String[] args) {
