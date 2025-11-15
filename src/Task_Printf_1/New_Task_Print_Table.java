@@ -6,25 +6,25 @@ public class New_Task_Print_Table {
         int a = 5;
         System.out.printf("Table of %d is :" , num);
         System.out.println();
-        System.out.printf("5*1 = %d", num);
+        System.out.printf("%dx1 = %d", num,num*1);
         System.out.println();
-        System.out.printf("5*2 = %d", num*2);
+        System.out.printf("%dx2 = %d",num, num*2);
         System.out.println();
-        System.out.printf("5*3 = %d", num*3);
+        System.out.printf("%dx3 = %d",num, num*3);
         System.out.println();
-        System.out.printf("5*4 = %d", num*4);
+        System.out.printf("%dx4 = %d", num, num*4);
         System.out.println();
-        System.out.printf("5*5 = %d", num*5);
+        System.out.printf("%dx5 = %d", num, num*5);
         System.out.println();
-        System.out.printf("5*6 = %d", num*6);
+        System.out.printf("%dx6 = %d",num, num*6);
         System.out.println();
-        System.out.printf("5*7 = %d", num*7);
+        System.out.printf("%dx7 = %d",num, num*7);
         System.out.println();
-        System.out.printf("5*8 = %d", num*8);
+        System.out.printf("%dx8 = %d", num, num*8);
         System.out.println();
-        System.out.printf("5*9 = %d", num*9);
+        System.out.printf("%dx9 = %d",num, num*9);
         System.out.println();
-        System.out.printf("5*10 = %d", num*10);
+        System.out.printf("%dx10 = %d",num, num*10);
         //%d - int
 
 
