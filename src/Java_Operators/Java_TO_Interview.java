@@ -5,9 +5,10 @@ public class Java_TO_Interview {
 
         int x = 10;
         int y = 20;
+        int z = 25;
         System.out.println(Math.max(x,y));//1st option
 
-        int max = x>y ? x : y;
+        int max = x>y ? x : y ;
         System.out.println(max);//2nd option
 
     }

@@ -1,4 +1,4 @@
-package Task_Printf_1;
+package Tasks;
 
 public class New_Task_Print_Table {
     public static void main(String[] args) {
