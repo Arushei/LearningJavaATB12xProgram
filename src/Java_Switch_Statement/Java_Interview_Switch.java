@@ -1,0 +1,20 @@
+package Java_Switch_Statement;
+
+public class Java_Interview_Switch {
+    public static void main(String[] args) {
+
+        int a = 11;
+        switch(-1){
+            default:
+                System.out.println("Default");
+                break;
+            case -1:
+                System.out.println("10"); //output will eb 10
+                break;
+            case 9:
+                System.out.println("9");
+                break;
+        }
+        }
+    }
+
